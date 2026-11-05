@@ -99,6 +99,12 @@ def hero(theme):
 def cards(theme):
     t = THEMES[theme]
     data = [
+        ("wirehaus", "Reach your computer from any browser, end-to-end encrypted.", "PolyForm Shield",
+         ["Desktop, terminal, files, clipboard and audio", "No open ports: the agent dials out", "Linux, macOS and Windows"],
+         "Rust  ·  WebAssembly  ·  Cloudflare Tunnel"),
+        ("camd", "A self-hosted camera that tells people from shadows.", "MIT",
+         ["ESP32-CAM firmware and a small server", "People and animals detected on the CPU", "Installable app with passkeys and alerts"],
+         "Python  ·  C++  ·  OpenCV"),
         ("git-sync", "Mirror your Git server to GitHub, live.", "Apache-2.0",
          ["Forgejo, Gitea, GitLab, Gogs and more", "One small Go binary, or Docker", "Linux, macOS and Windows"],
          "Go  ·  Docker  ·  Webhooks"),
