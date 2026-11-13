@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=3">
-  <img alt="Cristóbal Tormo, full stack developer" src="assets/hero-light.svg?v=3" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=4">
+  <img alt="Cristóbal Tormo, full stack developer" src="assets/hero-light.svg?v=4" width="100%">
 </picture>
 
 <br>
@@ -10,32 +10,32 @@
 </p>
 
 <p align="center">
-  <a href="https://cristobaltormo.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-web-dark.svg?v=3"><img alt="Website" src="assets/pill-web-light.svg?v=3" height="48"></picture></a>
-  <a href="https://www.linkedin.com/in/cristobaltormo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-linkedin-cristobaltormo-dark.svg?v=3"><img alt="LinkedIn" src="assets/pill-linkedin-cristobaltormo-light.svg?v=3" height="48"></picture></a>
-  <a href="mailto:info@cristobaltormo.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-mail-dark.svg?v=3"><img alt="Email" src="assets/pill-mail-light.svg?v=3" height="48"></picture></a>
+  <a href="https://cristobaltormo.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-web-dark.svg?v=4"><img alt="Website" src="assets/pill-web-light.svg?v=4" height="48"></picture></a>
+  <a href="https://www.linkedin.com/in/cristobaltormo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-linkedin-cristobaltormo-dark.svg?v=4"><img alt="LinkedIn" src="assets/pill-linkedin-cristobaltormo-light.svg?v=4" height="48"></picture></a>
+  <a href="mailto:info@cristobaltormo.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-mail-dark.svg?v=4"><img alt="Email" src="assets/pill-mail-light.svg?v=4" height="48"></picture></a>
 </p>
 
 ## Open source
 
 <p align="center">
   <a href="https://github.com/wirehaus/wirehaus"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-wirehaus-dark.svg?v=3">
-    <img alt="wirehaus" src="assets/project-wirehaus-light.svg?v=3" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-wirehaus-dark.svg?v=4">
+    <img alt="wirehaus" src="assets/project-wirehaus-light.svg?v=4" width="49%">
   </picture></a>
   <a href="https://github.com/cristobaltormo/camd"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-camd-dark.svg?v=3">
-    <img alt="camd" src="assets/project-camd-light.svg?v=3" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-camd-dark.svg?v=4">
+    <img alt="camd" src="assets/project-camd-light.svg?v=4" width="49%">
   </picture></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cristobaltormo/git-sync"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-git-sync-dark.svg?v=3">
-    <img alt="git-sync" src="assets/project-git-sync-light.svg?v=3" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-git-sync-dark.svg?v=4">
+    <img alt="git-sync" src="assets/project-git-sync-light.svg?v=4" width="49%">
   </picture></a>
   <a href="https://github.com/cristobaltormo/typedeck"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-typedeck-dark.svg?v=3">
-    <img alt="typedeck" src="assets/project-typedeck-light.svg?v=3" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-typedeck-dark.svg?v=4">
+    <img alt="typedeck" src="assets/project-typedeck-light.svg?v=4" width="49%">
   </picture></a>
 </p>
 
@@ -43,8 +43,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=3">
-    <img alt="Frontend, backend, data and infrastructure I work with" src="assets/stack-light.svg?v=3" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=4">
+    <img alt="Frontend, backend, data and infrastructure I work with" src="assets/stack-light.svg?v=4" width="100%">
   </picture>
 </p>
 

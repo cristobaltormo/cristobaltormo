@@ -106,8 +106,8 @@ def cards(theme):
          ["ESP32-CAM firmware and a small server", "People and animals detected on the CPU", "Installable app with passkeys and alerts"],
          "Python  ·  C++  ·  OpenCV"),
         ("git-sync", "Mirror your Git server to GitHub, live.", "Apache-2.0",
-         ["Forgejo, Gitea, GitLab, Gogs and more", "One small Go binary, or Docker", "Linux, macOS and Windows"],
-         "Go  ·  Docker  ·  Webhooks"),
+         ["Forgejo, Gitea, GitLab, Gogs and more", "One small Rust binary, or Docker", "Linux, macOS and Windows"],
+         "Rust  ·  Docker  ·  Webhooks"),
         ("typedeck", "Turn any USB keyboard into a macro keyboard.", "MIT",
          ["Arduino Leonardo and a USB Host Shield", "macOS, Linux and Windows", "Live editor and OBS control"],
          "Go  ·  Arduino  ·  HID"),
@@ -136,7 +136,7 @@ def stack(theme):
     t = THEMES[theme]
     rows = [
         ("Frontend", [("react", "React"), ("nextdotjs", "Next.js"), ("astro", "Astro"), ("typescript", "TypeScript"), ("tailwindcss", "Tailwind"), ("vite", "Vite")]),
-        ("Backend", [("nodedotjs", "Node.js"), ("express", "Express"), ("fastify", "Fastify"), ("go", "Go"), ("python", "Python"), ("socketdotio", "Socket.IO")]),
+        ("Backend", [("nodedotjs", "Node.js"), ("fastify", "Fastify"), ("go", "Go"), ("rust", "Rust"), ("python", "Python"), ("socketdotio", "Socket.IO")]),
         ("Data", [("postgresql", "PostgreSQL"), ("mongodb", "MongoDB"), ("sqlite", "SQLite"), ("redis", "Redis"), ("prisma", "Prisma")]),
         ("Infrastructure", [("proxmox", "Proxmox"), ("linux", "Linux"), ("docker", "Docker"), ("cloudflare", "Cloudflare")]),
     ]
